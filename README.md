@@ -24,3 +24,5 @@ describe('Array', function() {
   });
 });
 ```
+
+The moment a commit is pushed to the repo, codeship starts the build process.
