@@ -48,3 +48,10 @@ Elastic -> All apps -> myapp
               node command ---> npm start 
         
          
+         
+         
+ User of Packer
+      see github.com/adron/multi-cloud
+      
+      use connection.tf
+      
