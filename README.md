@@ -26,3 +26,25 @@ describe('Array', function() {
 ```
 
 The moment a commit is pushed to the repo, codeship starts the build process.
+
+
+
+---- 
+
+1. Amazon
+    - set up a user
+    - use user credentials in codeship
+    - create an elastic beanstalk 
+    - enter 
+    - create an elastic beanstalk instance -- 
+  
+ Codeship 
+      In the deplyment pipeline the S3 is a staging state where amazon uses to temporary store the data before putting into 
+      
+      
+      
+Elastic -> All apps -> myapp
+      configuration 
+              node command ---> npm start 
+        
+         
